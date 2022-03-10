@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/gabiWebDeveloper/static/css/main.ce17eaec.css",
+    "main.js": "/gabiWebDeveloper/static/js/main.c2146262.js",
+    "static/js/787.fb265414.chunk.js": "/gabiWebDeveloper/static/js/787.fb265414.chunk.js",
+    "static/media/video__pagina-chat-celulares.mp4": "/gabiWebDeveloper/static/media/video__pagina-chat-celulares.c0861b321e2de02f949c.mp4",
+    "static/media/video8.mp4": "/gabiWebDeveloper/static/media/video8.d7279299168040626abe.mp4",
+    "static/media/video__pagina-medicina.mp4": "/gabiWebDeveloper/static/media/video__pagina-medicina.9729bce1de123fb14a7a.mp4",
+    "static/media/about.png": "/gabiWebDeveloper/static/media/about.7a525a01656e56a46e78.png",
+    "static/media/video7.mp4": "/gabiWebDeveloper/static/media/video7.f395acdc52c9ded6a6ac.mp4",
+    "static/media/video5.mp4": "/gabiWebDeveloper/static/media/video5.524bac81347eb59cdae4.mp4",
+    "static/media/video9.mp4": "/gabiWebDeveloper/static/media/video9.2194a06fd10e915ff1a1.mp4",
+    "static/media/perfildia.png": "/gabiWebDeveloper/static/media/perfildia.191d4ad68b67079b7439.png",
+    "static/media/perfilnoche.png": "/gabiWebDeveloper/static/media/perfilnoche.0d8afd4382e1a912a365.png",
+    "static/media/video__pagina-calculadora.mp4": "/gabiWebDeveloper/static/media/video__pagina-calculadora.f6dd9ace84f4526020bc.mp4",
+    "static/media/video__pagina-canvas.mp4": "/gabiWebDeveloper/static/media/video__pagina-canvas.d904748488b7663e61e4.mp4",
+    "static/media/video6.mp4": "/gabiWebDeveloper/static/media/video6.34cc72662d116c2520fc.mp4",
+    "static/media/work3.jpg": "/gabiWebDeveloper/static/media/work3.0ae9596bb00d9773ce17.jpg",
+    "index.html": "/gabiWebDeveloper/index.html",
+    "main.ce17eaec.css.map": "/gabiWebDeveloper/static/css/main.ce17eaec.css.map",
+    "main.c2146262.js.map": "/gabiWebDeveloper/static/js/main.c2146262.js.map",
+    "787.fb265414.chunk.js.map": "/gabiWebDeveloper/static/js/787.fb265414.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce17eaec.css",
+    "static/js/main.c2146262.js"
+  ]
+}
