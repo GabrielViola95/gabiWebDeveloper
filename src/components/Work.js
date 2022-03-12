@@ -31,7 +31,7 @@ const Work = () => {
                     </a>
                 </div>
                 <div className="work__img">
-                    <a href="https://github.com/GabrielViola95" target="_blank">
+                    <a href="https://github.com/GabrielViola95/gabiWebDeveloper" target="_blank">
                         <video src={video7} className="video" onMouseOver={(e) => e.target.play()}
                         onMouseOut={(e) => e.target.pause()} ></video>
                     </a>
